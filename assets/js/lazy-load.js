@@ -1,3 +1,11 @@
+/**
+ * Lazy Load Class
+ *
+ * @package    RCS_Image_Optimizer
+ * @subpackage Includes
+ * @since      RCS_IMAGE_OPTIMIZER_VERSION
+ * @author     Robert South
+ */
 document.addEventListener("DOMContentLoaded", function() {
     let lazyImages = [].slice.call(document.querySelectorAll("img.lazy-load"));
     if ("IntersectionObserver" in window) {

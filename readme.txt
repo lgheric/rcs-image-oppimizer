@@ -3,7 +3,7 @@ Contributors: robert2021south
 Tags: image, optimizer 
 Donate link: http://ko-fi.com/robertsouth
 Requires at least: 5.6
-Tested up to: 6.5
+Tested up to: 6.6
 Requires PHP: 7.2
 Stable tag: 1.0
 License: GPLv3
